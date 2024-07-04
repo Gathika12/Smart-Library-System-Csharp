@@ -1,0 +1,56 @@
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Librarty Management Sysy.exe.config
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Librarty Management Sysy.exe
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Librarty Management Sysy.pdb
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Guna.UI2.dll
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Properties.Resources.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.welcome.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.GenerateResource.cache
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.CoreCompileInputs.cache
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.CopyComplete
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.exe
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.pdb
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.notAvailable.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Reserve_Book.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Reserve_Confirm.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.AddBooks.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.books.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.IssueBooks.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Members.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.ReturnBooks.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.error404F.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Sucess.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.addMembers.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.UpdateBook.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.viewBooks.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.UpdateMember.resources
+F:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.ViewMember.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Librarty Management Sysy.exe.config
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Librarty Management Sysy.exe
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Librarty Management Sysy.pdb
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\bin\Debug\Guna.UI2.dll
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.AssemblyReference.cache
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.AddBooks.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.books.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.error404F.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.IssueBooks.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.addMembers.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Members.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.notAvailable.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Properties.Resources.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Reserve_Book.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Reserve_Confirm.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.ReturnBooks.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Sucess.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.UpdateBook.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.UpdateMember.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.viewBooks.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.ViewMember.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.welcome.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.GenerateResource.cache
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.CoreCompileInputs.cache
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.csproj.CopyComplete
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.exe
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty Management Sysy.pdb
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.ReturnView.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Properties.Form1.resources
+E:\GroupProj\Librarty Management Sysy\Librarty Management Sysy\obj\Debug\Librarty_Management_Sysy.Properties.Form2.resources
